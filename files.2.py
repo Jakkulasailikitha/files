@@ -8,10 +8,10 @@
 # print(f.read())
 # f.close()
 
-f=open("abc.txt","w")
-lines=["hello","python"]
-f.writelines(lines)
-f.close()
+# f=open("abc.txt","w")
+# lines=["hello","python"]
+# f.writelines(lines)
+# f.close()
 
 # f=open("open.txt","w")
 # lines=["skjdsd\n","vjhdhs\n","khudydwn\n"]
@@ -23,3 +23,9 @@ f.close()
 # print(f.read())
 # f.close()
 
+# a=str(input("enter the number:"))
+# if "[" or ")" or "}" not in a:
+#     print("yes")
+# else:
+#     print("no")
+    
